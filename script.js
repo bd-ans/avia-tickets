@@ -82,7 +82,6 @@ elSignInButton.style.fontSize = '1.2em';
 elSignInButton.style.boxShadow = '0 0 7px #d6d6d6';
 elSignInButton.style.padding = '6px 12px';
 elSignInButton.style.cursor = 'default';
-elSignInButton.type = 'button';
 elSignInButton.onmouseover = function() {
   elSignInButton.style.boxShadow = '0 0 7px #d6d6d6';
 }
