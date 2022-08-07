@@ -232,7 +232,6 @@ elWelcomeFormBoxLeftFirstInput.style.padding = '7px 12px';
 elWelcomeFormBoxLeftFirstInput.style.fontSize = '1.1em';
 elWelcomeFormBoxLeftFirstInput.style.marginTop = '4px';
 elWelcomeFormBoxLeftFirstInput.style.outline = 'none';
-elWelcomeFormBoxLeftFirstInput.style.transition = 'all 0.1s ease-in-out';
 elWelcomeFormBoxLeftFirstInput.style.color = '#d6d6d6';
 elWelcomeFormBoxLeftFirstInput.onmousemove = function() {
   elWelcomeFormBoxLeftFirstInput.style.boxShadow = '0 0 15px #d6d6d6';
